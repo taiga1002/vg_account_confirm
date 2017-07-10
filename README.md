@@ -3,4 +3,4 @@ vg_account_confirm
 
 アカウント確認
 
-d0958039d5dc0fb415cc184b3cf4ca6b45b5cc0e46a0fe4106c797b1e2a70c5f
+a6f4af576bca4394c3d3adb145e5f0fad59bec785da08e2c0b2c40e588023749
